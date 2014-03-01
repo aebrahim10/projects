@@ -9,6 +9,6 @@
   </head>
   <body>
     <h1>Hello World!</h1>
-      <h2>This is my first page</h2>
+      <h2 style="COLOR: #00ff00; BACKGROUND-COLOR: #ffffff;">This is my first page</h2>
   </body>
 </html> 
